@@ -1,4 +1,4 @@
-Antonio Gulp Tasks
+Gulp Tasks
 ===================
 
 Installation
