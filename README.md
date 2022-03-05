@@ -7,9 +7,9 @@ Installation
 ### npm
 
 ```
-* npm install -g @vue/cli
+*npm install -g @vue/cli
 
-* npm install
+*npm install
 
-* gulp
+*gulp
 ```
